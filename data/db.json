@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "id": "bf11",
+      "title": "My blog",
+      "author": "Diana Kalei",
+      "body": "This is my story this is my blog."
+    },
+    {
+      "id": "ca1f",
+      "title": "My blog",
+      "author": "Diana Kalei",
+      "body": "This is my story. This is my blog"
+    },
+    {
+      "id": "95d8",
+      "title": "Diana",
+      "author": "Kalei",
+      "body": "This is my blog"
+    },
+    {
+      "id": "6bd5",
+      "title": "A doll's house",
+      "author": "Diana Kalei",
+      "body": "Review a step-by-step guide plus useful templates to learn how to write an effective blog post for your target audience and customers.\nReview a step-by-step guide plus useful templates to learn how to write an effective blog post for your target audience and customers."
+    },
+    {
+      "id": "a426",
+      "title": "If wishes were horses",
+      "author": "Ballal",
+      "body": "Anyone can connect with their audience through blogging and enjoy the myriad benefits that blogging provides: organic traffic from search engines, promotional content for social media, and recognition from a new audience you haven’t tapped into yet."
+    }
+  ]
+}
